@@ -6,6 +6,12 @@
     <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" alt="node.js" />
     <img src="https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express.js" />
     <img src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgreSQL" />
+    <img src="https://img.shields.io/badge/Upstash-08E066?style=for-the-badge&logo=upstash&logoColor=white" alt="upstash" />
+    <img src="https://img.shields.io/badge/Nodemailer-346F98?style=for-the-badge&logo=nodemailer&logoColor=white" alt="nodemailer" />
+    <img src="https://img.shields.io/badge/Hostinger_VPS-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" alt="hostinger VPS" />
+    <img src="https://img.shields.io/badge/Arcjet-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzQiIGhlaWdodD0iMzQiIHZpZXdCb3g9IjAgMCAzNCAzNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imhttp://www.w3.org/2000/svgIj48cGF0aCBkPSJNMzMgMThDMzMgMjUuNzI4IDI3LjczIDMyIDIxIDEySDFWMTBDNy4yNzIgMTAgMTMgMTUuMjcgMTMgMjFDMTMgMjYuNzMgNy4yNzIgMzIgMSAzMkgxMUMxNy43MjggMzIgMjMgMjYuNzMgMjMgMjFDMjMgMTUuMjcgMTcuNzMgMTAgMTEgMTBIMzdWMTBaIiBmaWxsPSJ3aGl0ZSIvPjwvc3ZnPg==&logoColor=white" alt="arcjet" />
+    
   </div>
 
   <h3 align="center">A Subscription Tracking API</h3>
